@@ -1,0 +1,5 @@
+#IGNORAR ARCHIVOS HTML
+*.HTML
+
+# ignorar carpeta OUTPUT
+OUTPUT
